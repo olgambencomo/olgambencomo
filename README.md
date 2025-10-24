@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Portfolio-banner.png" alt="Olga Bencomo - Data Analytics Portfolio" width="100%" height="120">
+  <img src="Portfolio-banner.png" width="90%" height="150">
 </p>
 
 
