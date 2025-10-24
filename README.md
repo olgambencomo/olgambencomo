@@ -14,7 +14,7 @@
 - 🎓 Industrial Engineer specialized in Business Intelligence and Data Analytics 
 - 💡 Experienced in data cleaning, analysis, and visualization to support business decisions  
 - 🧠 Interested in Data Science, NLP, and Predictive Analytics  
-- 🧩 Tools I use daily: Python, SQL, Power BI, Looker Studio, Azure, Snowflake 
+- 🧩 Tools I use: Python, SQL, Power BI, Looker Studio, Azure, Snowflake 
 - 🎯 Current focus: Building a portfolio of data-driven projects 
 
 ---
