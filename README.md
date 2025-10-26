@@ -1,6 +1,6 @@
 
 
-  <img src="Portfolio-banner.png" width="90%" height="150">
+  <img src="Portfolio-banner.png" width="100%" height="130">
 </p>
 
 
