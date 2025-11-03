@@ -1,6 +1,6 @@
 
 
-  <img src="Portfolio-banner.png" width="100%" height="130">
+  <img src="Portfolio-banner.png" width="90%" height="140">
 </p>
 
 
@@ -50,4 +50,4 @@
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| 🧠 **Customer Sentiment Analysis (NLP)** | Sentiment analysis using VADER and RoBERTa models with visualization in Power BI. Compared models and built KPIs for product satisfaction. | Python, Hugging Face, Power BI |
+| 🧠 **[Customer Sentiment Analysis (NLP)](https://github.com/olgambencomo/women-clothes-sentiment-analysis)** | Sentiment analysis using VADER and RoBERTa models with visualization in Power BI. Compared models and built KPIs for product satisfaction. | Python, Hugging Face, Power BI |
