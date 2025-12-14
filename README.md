@@ -13,7 +13,7 @@
 - 💡 Experienced in data cleaning, analysis, and visualization to support business decisions  
 - 🧠 Interested in Data Science, NLP, and Predictive Analytics  
 - 🧩 Tools I use: Python, SQL, Power BI, Looker Studio, Azure, Snowflake 
-- 🎯 Current focus: Building a portfolio of data-driven projects 
+
 
 ---
 ### 🧠 Tech Stack
@@ -50,4 +50,6 @@
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| 🧠 **[Customer Sentiment Analysis (NLP)](https://github.com/olgambencomo/women-clothes-sentiment-analysis)** | Sentiment analysis using VADER and RoBERTa models with visualization in Power BI. Compared models and built KPIs for product satisfaction. | Python, Hugging Face, Power BI |
+|  **[Customer Sentiment Analysis (NLP)](https://github.com/olgambencomo/women-clothes-sentiment-analysis)** | Sentiment analysis using VADER and RoBERTa models with visualization in Power BI. Compared models and built KPIs for product satisfaction. | Python, Hugging Face, Power BI |
+|  **[COVID-19 Data Exploration using SQL]([https://github.com/olgambencomo/women-clothes-sentiment-analysis](https://github.com/olgambencomo/covid-deaths-vaccinations-analysis))** | Explore global Covid-19 data using SQL to understand infection patterns, mortality rates, vaccination progress, and health risk factors across countries. |SQL, Common Table Expressions (CTEs), Window Functions (OVER, PARTITION BY), Aggregations|
+
