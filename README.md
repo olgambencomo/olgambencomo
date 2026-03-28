@@ -1,5 +1,3 @@
-<img src="Portfolio-banner.png" width="90%" height="140">
-</p>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olgambencomo/)
