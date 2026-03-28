@@ -47,10 +47,9 @@
 
 
 ### 📂 Featured Projects  
-
 | Project | Description | Tools |
 |----------|--------------|--------|
-| **[Fraud Detection — Machine Learning](https://github.com/olgambencomo/fraud-detection)** | End-to-end fraud detection model using XGBoost with hyperparameter tuning via Optuna. Achieved 98% Recall on the fraud class, reducing undetected fraud from 8 to 2 cases per 100 transactions. | Python, XGBoost, Optuna,  Scikit-learn |
-| **[Customer Sentiment Analysis (NLP)](https://github.com/olgambencomo/women-clothes-sentiment-analysis)** | Sentiment analysis using VADER and RoBERTa models with visualization in Power BI. Compared models and built KPIs for product satisfaction. | Python, Hugging Face, Power BI |
+| **[Fraud Detection — Machine Learning](https://github.com/olgambencomo/fraud-detection)** | End-to-end fraud detection model using XGBoost with hyperparameter tuning via Optuna. Achieved 98% Recall on the fraud class, reducing undetected fraud from 8 to 2 cases per 100 transactions. | Python, XGBoost, Optuna, Scikit-learn |
+| **[Sentiment Analysis — Women's Fashion E-Commerce](https://github.com/olgambencomo/Sentiment-Analysis-Project)** | End-to-end NLP pipeline that classifies customer reviews as Positive, Neutral, or Negative using LinearSVC + TF-IDF. Structured as a reproducible MLOps pipeline with DVC, MLflow, and deployed as a live Streamlit app. 81.7% accuracy · F1 macro 0.61. | Python, Scikit-learn, NLTK, DVC, MLflow, Streamlit |
 | **[COVID-19 Data Exploration using SQL](https://github.com/olgambencomo/covid-deaths-vaccinations-analysis)** | Explore global Covid-19 data using SQL to understand infection patterns, mortality rates, vaccination progress, and health risk factors across countries. | SQL, CTEs, Window Functions, Aggregations |
 | **[Inventory Management Analysis](https://github.com/olgambencomo/inventory_analysis)** | Interactive inventory dashboard with ABC classification, stock turnover tracking, and geographic sales distribution. Built in Power BI with a custom star schema data model. | Power BI, DAX, Power Query |
