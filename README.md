@@ -47,6 +47,6 @@
 ### 📂 Featured Projects  
 | Project | Description | Tools |
 |----------|--------------|--------|
-| **[Fraud Detection]([https://github.com/olgambencomo/fraud-detection](https://github.com/olgambencomo/fraud-detection-ieee-cis))** | End-to-end fraud detection model using XGBoost|
+| **[Fraud Detection]([https://github.com/olgambencomo/fraud-detection](https://github.com/olgambencomo/fraud-detection-ieee-cis)** | End-to-end fraud detection model using XGBoost|
 | **[COVID-19 Data Exploration using SQL](https://github.com/olgambencomo/covid-deaths-vaccinations-analysis)** | Explore global Covid-19 data using SQL to understand infection patterns, mortality rates, vaccination progress, and health risk factors across countries. | SQL, CTEs, Window Functions, Aggregations |
 | **[Inventory Management Analysis](https://github.com/olgambencomo/inventory_analysis)** | Interactive inventory dashboard with ABC classification, stock turnover tracking, and geographic sales distribution. Built in Power BI with a custom star schema data model. | Power BI, DAX, Power Query |
